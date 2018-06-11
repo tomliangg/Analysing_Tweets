@@ -2,6 +2,11 @@
 <h3>This repo is created for documentation purpose. The repo contains my personal work toward the SFU CMPT353 (Computational Data Science) course. You may use my solution as a reference. The .zip archive contains the original exercise files. For practice purpose, you can download the .zip archive and start working from there.</h3>
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
+
+<br />
+<p>The task of this exercise is to  analyze how the dogs' ratings of cuteness inflated over a period of time. The dog_rates_tweets.csv file has the data of dog owners' tweets and tweet created time, where the tweets might have the dog's cuteness ratings. You will get to design Python regex to extract/filter the ratings from the long tweets. At the end, you will apply the linear fitting to obtain the best-fit line
+<br />
+
 <p>Below is the exercise description </p>
 <hr>
 
